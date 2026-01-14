@@ -1,7 +1,7 @@
 # 🎬 Smile Hair Clinic – AI Powered Video Generation
 ### 🏆 2nd Place Winner – Smile Hair Clinic AI & Mobile Hackathon
 
-![Proje Önizleme](./img/thumbnail.HEIC)
+<img src="./img/thumbnail.HEIC" alt="Proje Önizleme" width="450"/>
 
 This repository contains the production process and outputs of the **AI Powered Video Generation** project, which won **2nd Place** in the Smile Hair Clinic AI & Mobile Hackathon.
 
